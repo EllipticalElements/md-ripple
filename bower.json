@@ -1,6 +1,6 @@
 {
   "name": "md-ripple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "S. Francis"
   ],
@@ -39,6 +39,6 @@
     "bk"
   ],
   "dependencies": {
-    "elliptical-jquery-ui": "~1.11.9"
+    "jquery-ui-import": "~1.0.1"
   }
 }
